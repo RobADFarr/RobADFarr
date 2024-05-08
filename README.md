@@ -1,5 +1,5 @@
-<!--<a href="https://app.daily.dev/robfarr"><img src="./devcard.png" width="652" alt="Rob Farr's Dev Card"/></a>-->
-<a href="https://app.daily.dev/robfarr"><img src="./devcard.png?type=wide&r=49m" width="652" alt="Rob Farr's Dev Card"/></a>
+<a href="https://app.daily.dev/robfarr"><img src="./devcard.png" width="652" alt="Rob Farr's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/robfarr"><img src="./devcard.png?type=wide&r=49m" width="652" alt="Rob Farr's Dev Card"/></a>-->
 
 <!--
 **RobADFarr/RobADFarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
